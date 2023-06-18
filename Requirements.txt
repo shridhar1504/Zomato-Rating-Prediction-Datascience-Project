@@ -1,0 +1,10 @@
+1. NumPy
+2. Pandas
+3. Matplolib
+4.Seaborn
+5.OS
+6.Scikit-learn
+7.warnings
+8.pickle
+9.re
+10.plotly
