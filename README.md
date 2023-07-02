@@ -20,4 +20,4 @@ Based on the analysis of the Zomato dataset, the following findings can be deriv
 
 These findings provide valuable insights for restaurant owners, investors, and industry professionals to make informed decisions, improve customer experiences, and drive business growth.
 ## Conclusion:
-Achieved in developing a model to predict the rating of a restaurant based on the given data with high accuracy of ### 93.37% 
+Achieved in developing a model to predict the rating of a restaurant based on the given data with high accuracy of  93.37% (Extra trees Regressor)
